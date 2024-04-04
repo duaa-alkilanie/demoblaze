@@ -1,0 +1,6 @@
+
+pytest  == 7.3.2
+
+requests == 2.31.0
+
+jsonpath == 0.82
